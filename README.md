@@ -23,8 +23,8 @@ Introdução a classe JFrame, componente principal dos aplicativos de interface 
 
 - Clicando no botão somar e será mostrada a soma dos números;
 
-- Clicando no botão limpar e as caixas de texto serão limpas;
+- Clicando no botão limpar e as caixas de texto serão limpas: .setText(null);
 
-- Ocultar e Exibir componentes;
+- Ocultar e Exibir componentes: .setVisible(false), .setVisible(true);
 
-- Desabilitar e Habilitar Exibir componentes.
+- Desabilitar e Habilitar Exibir componentes: .setEnabled(false), .setEnabled(true);
